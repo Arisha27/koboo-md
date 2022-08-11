@@ -165,7 +165,7 @@ hydratedTemplate: {
             }, {
            callButton: {
            displayText: 'Number Owner ',
-            phoneNumber: '+62 895-6046-70507'
+            phoneNumber: '+92 307 2291944'
             }
             }, {
             quickReplyButton: {
@@ -203,7 +203,7 @@ let message = await prepareWAMessageMedia({ image: {url: ppuser }}, { upload: hi
             }, {
            callButton: {
            displayText: 'Number Owner ',
-            phoneNumber: '+62 895-6046-70507'
+            phoneNumber: '+92 307 2291944'
             }
             }, {
             quickReplyButton: {

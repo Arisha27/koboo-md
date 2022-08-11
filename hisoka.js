@@ -46,7 +46,7 @@ const wita = moment.tz('Asia/Makassar').format('HH : mm : ss')
 const wit = moment.tz('Asia/Jayapura').format('HH : mm : ss')
 //━━━━━━━━━━━━━━━[ FAKE ]━━━━━━━━━━━━━━━━━//
 const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "62895604670507-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `K O B O K A N A E R U`, orderTitle: 'Please Subscribe Youtube Nekopoi Lovers', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
-const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `I’m From Indonesia 🇮🇩`,jpegThumbnail: thumb}}}
+const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `I’m From Pakistan 🇵🇰`,jpegThumbnail: thumb}}}
 //━━━━━━━━━━━━━━━[ MODULE EXSPORT ]━━━━━━━━━━━━━━━━━//
 module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
     try {
@@ -1159,13 +1159,13 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/RaaaGH'
+displayText: 'Youtube',
+url: 'https://youtube.com/talha27'
 }
 }, {
 callButton: {
  displayText: 'Number Phone Owner',
-phoneNumber: '+62 895-6046-70507>>'
+phoneNumber: '+92 307 2291944>>'
 }
 }, {
 quickReplyButton: {
@@ -1198,13 +1198,13 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
- url: 'https://github.comRaaaGH/'
+displayText: 'Youtube',
+ url: 'https://youtube.com/talha27'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 895-6046-70507'
+phoneNumber: '+92 307 2291944'
 }
 }, {
 quickReplyButton: {
@@ -5550,20 +5550,20 @@ anu = `┌──⭓ *Info Scrip*
 │
 │ ⫹⫺ Library: Baileys-Md
 │ ⫹⫺ Language : Javascript
-│ ⫹⫺ Author: Dika Ardnt 
-│ ⫹⫺ Script : https://github.com/RaaaGH
+│ ⫹⫺ Author: Talha Kayani 
+│ ⫹⫺ Script : https://wa me/923072291944
 │ ⫹⫺ Desc: Jangan DiBully Masih Pemula
 │
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/RaaaGH'
+displayText: 'Youtube',
+url: 'https://youtube.com/talha27'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 895-6046-70507'
+phoneNumber: '+92 307 2291944'
 }
 }, {
 quickReplyButton: {
@@ -6463,23 +6463,23 @@ anu = `┌──⭓ *Info User*
 
 ┌──⭓ *Creator Botz*
 │
-│あ DikaArdnt [Author]
-│あ HyzerDev [Mastah]
-│あ Penyedia Rest Api
-│あ Clara [Newbie]
+│あ ALLAH SWT
+│あ JAVASCRIPT 
+│あ WEB AND API
+│あ BLESSINGS
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/RaaaGH/'
+displayText: 'Youtube',
+url: 'https://youtube.con/talha27'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 895-6046-70507'
+phoneNumber: '+92 307 2291944'
 }
 }]
-let timb = 'https://wa.me/62895604670507'
+let timb = 'https://wa.me/923072291944'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'Speed'}, type: 1}
@@ -6499,9 +6499,9 @@ mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-mediaUrl: "https://github.com/RaaaGH/", 
+mediaUrl: "https://Instagram/talhakayani277", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://github.com/RaaaGH"
+sourceUrl: "https://instagram.com/talhakayani277"
 }}
 }
 await hisoka.sendPresenceUpdate('composing', m.chat) // gw tambahin auto ketiknya :v, dibagian menu doang sih

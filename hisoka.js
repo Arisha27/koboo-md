@@ -45,7 +45,7 @@ const wib = moment.tz('Asia/Jakarta').format('HH : mm : ss')
 const wita = moment.tz('Asia/Makassar').format('HH : mm : ss')
 const wit = moment.tz('Asia/Jayapura').format('HH : mm : ss')
 //━━━━━━━━━━━━━━━[ FAKE ]━━━━━━━━━━━━━━━━━//
-const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "62895604670507-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `K O B O K A N A E R U`, orderTitle: 'Please Subscribe Youtube Nekopoi Lovers', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
+const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "62895604670507-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `T A L H A K A Y A N I`, orderTitle: 'Please Subscribe Youtube Talha 27', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
 const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `I’m From Pakistan 🇵🇰`,jpegThumbnail: thumb}}}
 //━━━━━━━━━━━━━━━[ MODULE EXSPORT ]━━━━━━━━━━━━━━━━━//
 module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {

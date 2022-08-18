@@ -194,11 +194,11 @@ let message = await prepareWAMessageMedia({ image: {url: ppuser }}, { upload: hi
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: Goodbay,
-                            hydratedFooterText: 'Leaving Message By Claraa',
+                            hydratedFooterText: 'Made in Pakistan',
                             hydratedButtons: [{
                             	urlButton: {
-            displayText: 'Rest Api',
-            url: 'https://kanza-api.herokuapp.com'
+            displayText: 'Instagram',
+            url: 'instagram.com/talhakayani277'
             }
             }, {
            callButton: {
@@ -271,7 +271,7 @@ let list = []
 for (let i of kon) {
 list.push({
 displayName: await hisoka.getName(i + '@s.whatsapp.net'),
-vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await hisoka.getName(i + '@s.whatsapp.net')}\nFN:${await hisoka.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:clarz939@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://instagram.com/GapunyaWKWK\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await hisoka.getName(i + '@s.whatsapp.net')}\nFN:${await hisoka.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:webinsect27@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://instagram.com/talhakayani277\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Pakistan;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
 })
 }
 hisoka.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })

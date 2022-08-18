@@ -1159,8 +1159,8 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Youtube',
-url: 'https://youtube.com/talha27'
+displayText: 'Instagram',
+url: 'https://instagram.com/talhakayani277'
 }
 }, {
 callButton: {
@@ -1198,8 +1198,8 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Youtube',
- url: 'https://youtube.com/talha27'
+displayText: 'Instagram',
+ url: 'https://instagram.com/talhakayani277'
 }
 }, {
 callButton: {
@@ -5557,8 +5557,8 @@ anu = `┌──⭓ *Info Scrip*
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Youtube',
-url: 'https://youtube.com/talha27'
+displayText: 'Instagram',
+url: 'https://instagram.com/talhakayani277'
 }
 }, {
 callButton: {
@@ -6470,8 +6470,8 @@ anu = `┌──⭓ *Info User*
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Youtube',
-url: 'https://youtube.con/talha27'
+displayText: 'Instagram',
+url: 'https://instagram.com/talhakayani277'
 }
 }, {
 callButton: {

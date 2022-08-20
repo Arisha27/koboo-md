@@ -156,11 +156,11 @@ templateMessage: {
 hydratedTemplate: {
         imageMessage: message.imageMessage,
         hydratedContentText: Welcome,
-        hydratedFooterText: 'Made in pak',
+        hydratedFooterText: 'Made in Pakistan',
         hydratedButtons: [{
         	urlButton: {
-            displayText: 'Rest Api',
-            url: 'https://kanza-api.herokuapp.com'
+            displayText: 'Instagram',
+            url: 'https://instagram.com/talhakayani277'
             }
             }, {
            callButton: {

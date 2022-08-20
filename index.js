@@ -156,7 +156,7 @@ templateMessage: {
 hydratedTemplate: {
         imageMessage: message.imageMessage,
         hydratedContentText: Welcome,
-        hydratedFooterText: 'Welcome Message By Elaina-MD',
+        hydratedFooterText: 'Made in pak',
         hydratedButtons: [{
         	urlButton: {
             displayText: 'Rest Api',

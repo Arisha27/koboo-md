@@ -21,13 +21,13 @@ global.sp = '⭔'
 global.mess = {
     success: 'Ｓｕｃｃｅｓ．．．',
     admin: 'Only admin!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    botAdmin: 'Bot must be admin!',
     owner: 'Only owner of Bot',
     group: 'Only in Group!',
     private: 'Only in Private Chat!',
     bot: 'Only Nomor Bot',
     wait: '📩 𝑫𝒂𝒕𝒂 𝑰𝒏 𝑷𝒓𝒐𝒄𝒆𝒔𝒔, 𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕 𝑨 𝑴𝒊𝒏𝒖𝒕𝒆',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'youre limits of use are full, it will be reset after 12 hours',
 }
 global.limitawal = {
     premium: "Infinity",

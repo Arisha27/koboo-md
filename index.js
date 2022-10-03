@@ -66,7 +66,7 @@ async function startHisoka() {
 const hisoka = hisokaConnect({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Zens WhatsApp Bot','Safari','1.0.0'],
+browser: ['Dani WhatsApp Bot','Safari','1.0.0'],
 auth: state
 })
 
@@ -156,7 +156,7 @@ templateMessage: {
 hydratedTemplate: {
         imageMessage: message.imageMessage,
         hydratedContentText: Welcome,
-        hydratedFooterText: 'Made in Pakistan',
+        hydratedFooterText: 'made in pak',
         hydratedButtons: [{
         	urlButton: {
             displayText: 'Instagram',
@@ -194,11 +194,11 @@ let message = await prepareWAMessageMedia({ image: {url: ppuser }}, { upload: hi
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: Goodbay,
-                            hydratedFooterText: 'Made in Pakistan',
+                            hydratedFooterText: 'made in pak',
                             hydratedButtons: [{
                             	urlButton: {
             displayText: 'Instagram',
-            url: 'instagram.com/talhakayani277'
+            url: 'https://instagram.com/talhakayani277'
             }
             }, {
            callButton: {
